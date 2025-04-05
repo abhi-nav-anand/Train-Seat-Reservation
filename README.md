@@ -2,7 +2,7 @@
 
 A MERN stack application to reserve train seats with smart seat allocation logic.
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - **Frontend**: Vite + React + Tailwind CSS
 - **Backend**: Node.js + Express.js
@@ -10,17 +10,17 @@ A MERN stack application to reserve train seats with smart seat allocation logic
 - **Authentication**: JWT-based user login/signup
 - **Hosting**:
   - Deploy: [Live Link](https://train-seat-res.netlify.app/) 🔗
-  - GitHub: [Repo Link](https://github.com/abhinavanand3154/train-seat-reservation) 🔗
+  - GitHub: [Repo Link](https://github.com/abhi-nav-anand/Train-Seat-Reservation) 🔗
 
 ---
 
-## 📌 Features
+##  Features
 
 -  **User Authentication**
   - Signup/Login functionality
   - JWT tokens for secure API calls
 
-- 💺 **Seat Reservation**
+-  **Seat Reservation**
   - 80 seats in total (7 per row, last row has 3)
   - One user can book **up to 7 seats at once**
   - Prioritizes booking in the **same row**
@@ -28,16 +28,10 @@ A MERN stack application to reserve train seats with smart seat allocation logic
   - Prevents **double booking**
   - Booking history per user
 
-- 🧹 **Admin Features**
+-  **Admin Features**
   - Reset All Bookings
 
----
-
-## 🖼️ UI Preview
-
-| Home Page             | Seat Booking Page         |
-|-----------------------|---------------------------|
-| ![Home](https://drive.google.com/file/d/1ORThHo0JSML0Uum9gQLspw2LDYFT9l0v/view?usp=sharing) | ![Booking](https://drive.google.com/file/d/1Hpi51-rQLSO8eA0e0iGzV8zYsKpta_wZ/view?usp=sharing) |
+---|
 
 ---
 
@@ -46,5 +40,6 @@ A MERN stack application to reserve train seats with smart seat allocation logic
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/abhinavanand3154/train-seat-reservation.git
+git clone (https://github.com/abhi-nav-anand/Train-Seat-Reservation)
 cd train-seat-reservation
+npm run dev
