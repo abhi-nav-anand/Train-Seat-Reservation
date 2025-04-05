@@ -31,11 +31,9 @@ A MERN stack application to reserve train seats with smart seat allocation logic
 -  **Admin Features**
   - Reset All Bookings
 
----|
 
----
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repo
 
